@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to NaLiang's Homepage
 
-You can use the [editor on GitHub](https://github.com/naliang/naliang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+You can see something about Javascript's note on this.
+![](https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxgeticon?seq=656839578&username=@1ecdb7c0674f1302c16fad0d593dab22&skey=@crypt_94c460b8_480091936b7d5ceeefa2e0ee0dfb4669&type=big)
+naliang
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
