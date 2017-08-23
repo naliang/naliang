@@ -7,11 +7,11 @@ You can see something about Javascript's note on this.
 naliang beginning 8 18 2017
 
 ### 每节课作业
-1.[lesson1]（https://github.com/naliang/getting-started-with-javascript/homework/lesson1/shaozhen.md）
+1.[lesson1](https://github.com/naliang/getting-started-with-javascript/homework/lesson1/shaozhen.md)
 
-2.[lesson2]()
+2.[lesson2](https://github.com/naliang/getting-started-with-javascript/blob/master/homework/lesson2/shaozhen.md)
 
-3.[lesson3]()
+3.[lesson3](https://github.com/naliang/getting-started-with-javascript/blob/master/homework/lesson3/shaozhen.png)
 
 
 
@@ -46,4 +46,4 @@ naliang beginning 8 18 2017
 
 ### 学习目标
 
-    搭建一个web表格网站，可更新数据，有用户登录限制，可导出为excle格式文件，可使用excel格式文件导入。
+####    搭建一个web表格网站，可更新数据，有用户登录限制，可导出为excle格式文件，可使用excel格式文件导入。
