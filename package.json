@@ -1,0 +1,23 @@
+{
+  "name": "naliang",
+  "version": "1.0.0",
+  "description": "You can see something about Javascript's note on this.",
+  "main": "showwordsfromtheheart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naliang/naliang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naliang/naliang/issues"
+  },
+  "homepage": "https://github.com/naliang/naliang#readme",
+  "dependencies": {
+    "jslint": "^0.11.0",
+    "jsonfile": "^3.0.1"
+  }
+}
